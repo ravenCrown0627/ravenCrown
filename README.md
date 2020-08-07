@@ -9,7 +9,7 @@
 
 ### Hi there, I'm Raven [ravenCrown0627][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Student!
 - 🔭 I’m currently studying programming at University Sains Malaysia(USM)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
