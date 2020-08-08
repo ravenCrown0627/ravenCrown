@@ -41,7 +41,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img align="left" alt="ravenCrown0627's Github Stats" src="https://github-readme-stats.ravenCrown0627.vercel.app/api?username=ravenCrown0627&show_icons=true&hide_border=true" />
+<img align="left" alt="ravenCrown0627's Github Stats" src="https://github-readme-stats.ravenCrown.vercel.app/api?username=ravenCrown0627&show_icons=true&hide_border=true" />
 
 
 [facebook]: https://www.facebook.com/kagamine.len.50596
