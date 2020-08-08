@@ -41,7 +41,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ravenCrown0627)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="ravenCrown0627's Github Stats" src="https://github-readme-stats.ravenCrown0627.vercel.app/api?username=ravenCrown0627&show_icons=true&hide_border=true" />
+
 
 [facebook]: https://www.facebook.com/kagamine.len.50596
 [twitter]: https://twitter.com/blackcrowdrt
