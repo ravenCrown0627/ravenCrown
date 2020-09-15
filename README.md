@@ -10,7 +10,7 @@
 ### Hi there, I'm Raven [ravenCrown0627][webdev] 👋
 
 ## I'm a Student!
-- 🔭 I’m currently studying programming at University Sains Malaysia(USM)
+- 🔭 I’m currently studying programming at University Putra Malaysia(UPM)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn most of the programming language and challenge the Google code comp
